@@ -23,6 +23,8 @@ INSERT INTO `{prefix}_mods` (`mid`, `name`, `icon`, `modfolder`, `steam_universe
 (19, "E.Y.E: Divine Cybermancy", 'eye.png', 'eye', '0'),
 (20, "Nuclear Dawn", 'nucleardawn.png', 'nucleardawn', '0'),
 (21, "Counter-Strike: Global Offensive", 'csgo.png', 'csgo', '1'),
+(22, 'Counter-Strike: 1.6', 'cs1.6.png', 'cs1.6', '0'),
+(23, 'Counter-Strike: Condition Zero', 'czero.png', 'czero', '0'),
 (22, 'Synergy', 'synergy.png', 'synergy', '0');
 
 INSERT INTO `{prefix}_settings` (`setting`, `value`) VALUES
